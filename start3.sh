@@ -1,0 +1,1 @@
+scrapy crawl quotes3 -o quotes.json
