@@ -1,0 +1,1 @@
+scrapy crawl quotes6 -o quotes.json -a tag=humor
