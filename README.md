@@ -1,4 +1,4 @@
-# ScrapyTute
-I'm learning Scrapy.
+# scrapy-practice 
+learning Scrapy.
 
 run the start.sh
